@@ -78,4 +78,4 @@ class TelegraphHelper:
         return
 
 
-telegraph=TelegraphHelper('SparkXcloud-Gdrive-MirrorBot', 'https://github.com/Spark-X-Cloud/SparkXcloud-Gdrive-MirrorBot')
+telegraph=TelegraphHelper('SparkXcloud-Gdrive-MirrorBot', 'https://github.com/ryzensp/SparkXcloud-Gdrive-MirrorBot')
