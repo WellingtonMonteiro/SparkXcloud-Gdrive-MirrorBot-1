@@ -194,7 +194,7 @@ input[type="submit"]:hover, input[type="submit"]:focus{
           src="https://telegra.ph/file/cc06d0c613491080cc174.png"
           alt="logo"
         />
-        <a href="https://t.me/SparkXcloud">
+        <a href="https://t.me/iAmLiKu1">
           <h2 class="name">Qbittorrent Selection</h2>
         </a>
       </div>
@@ -696,7 +696,7 @@ def set_priority(hash_id):
 
 @app.route('/')
 def homepage():
-    return "<h1>See SparkXcloud-Gdrive-MirrorBot <a href='https://www.github.com/Spark-X-Cloud/SparkXcloud-Gdrive-MirrorBot'>@GitHub</a> By <a href='https://github.com/Spark-X-Cloud'>Anas</a></h1>"
+    return "<h1>See SparkXcloud-Gdrive-MirrorBot <a href='https://www.github.com/ryzensp/SparkXcloud-Gdrive-MirrorBot'>@GitHub</a> By <a href='https://github.com/Spark-X-Cloud'>Anas</a></h1>"
 
 @app.errorhandler(NotFound404Error)
 def page_not_found(e):
