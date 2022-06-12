@@ -199,8 +199,8 @@ input[type="submit"]:hover, input[type="submit"]:focus{
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/Spark-X-Cloud/SparkXcloud-Gdrive-MirrorBot"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/SparkXcloud"><i class="fab fa-telegram"></i></a>
+        <a href="https://www.github.com/ryzensp/SparkXcloud-Gdrive-MirrorBot"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/iAmLiKu1"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
